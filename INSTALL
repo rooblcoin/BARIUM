@@ -1,0 +1,9 @@
+Building BARIUM
+
+See doc/readme-qt.rst for instructions on building BARIUM-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BARIUM.
+
+See doc/build-*.txt for instructions on building BARIUMd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BARIUM.
